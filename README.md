@@ -11,7 +11,7 @@ problème.
 Si vous n’arrivez pas à compléter le test, vous pouvez quand même nous envoyer votre code avec des commentaires et des annotations (expliquez pourquoi vous n’avez pas complété le test, décrivez-nous quelle approche vous pensez serait la bonne, etc.).
 
 ## Problématique
-Vous devez afficher, dans le fichier page.html, la liste des personnages de Star Wars.
+Vous devez afficher, dans un fichier page.html, la liste des personnages de Star Wars.
 
 Pour ce faire, vous devez aller chercher les personnages via l’API suivante : https://swapi.co/api/people/
 
